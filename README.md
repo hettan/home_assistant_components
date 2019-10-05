@@ -1,0 +1,1 @@
+Homeassistant component for more advanced configuration of the Trådfri dimmer controller
