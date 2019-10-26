@@ -38,8 +38,8 @@ script: !include scripts.yaml
 
 tradfri_switch:
   id: kitchen_ikea_switch
-  middle:
-    hold:
+  middle_button:
+      hold:
       entity_id: light.living_room_floor
       behaviour: dim
       interval: 0.1
